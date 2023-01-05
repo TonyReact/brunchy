@@ -1,0 +1,51 @@
+[
+  {
+    "id": "001",
+    "name": "Butter Pancakes",
+    "caption": "With honey",
+    "price": "14.50",
+    "image": "https://zesty-rest.surge.sh/static/media/1.4a9d40f5fbf8d8eb8900c9226df0c793.svg"
+  },
+  {
+    "id": "002",
+    "name": "Avocado Toast",
+    "caption": "2 pieces",
+    "price": "16.50",
+    "image": "https://zesty-rest.surge.sh/static/media/2.5b43a9db6b90d03eec15dc86f9e00adf.svg"
+  },
+  {
+    "id": "003",
+    "name": "Sweet Yogurt",
+    "caption": "With strawberries",
+    "price": "5.00",
+    "image": "https://zesty-rest.surge.sh/static/media/3.df34da1470fdf56d3f82f0adfa56a07b.svg"
+  },
+  {
+    "id": "004",
+    "name": "Peanut Toast",
+    "caption": "With butter",
+    "price": "9.50",
+    "image": "https://zesty-rest.surge.sh/static/media/4.6143846ce385951f4255e2121a681ade.svg"
+  },
+  {
+    "id": "005",
+    "name": "French Toast",
+    "caption": "With butter and jam",
+    "price": "9.50",
+    "image": "https://zesty-rest.surge.sh/static/media/5.41faac54355bae79be515e7f47397aa6.svg"
+  },
+  {
+    "id": "006",
+    "name": "Banana Bread",
+    "caption": "With blueberries",
+    "price": "5.50",
+    "image": "https://zesty-rest.surge.sh/static/media/6.0d10d8b6b244da49a8e54ea67d174614.svg"
+  },
+  {
+    "id": "007",
+    "name": "Classic Waffle",
+    "caption": "With ice cream",
+    "price": "7.50",
+    "image": "https://zesty-rest.surge.sh/static/media/7.23aaabbd139809d0208bc192a93087cf.svg"
+  }
+]

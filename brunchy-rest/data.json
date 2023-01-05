@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Butter Pancakes",
+    "caption": "With",
+    "price": "$ 14.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/big-mac-menu-new"
+  },
+  {
+    "name": "Avocado Toast",
+    "caption": "2 pieces",
+    "price": "$ 16.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/big-rosti-mediummenu_500x500"
+  },
+  {
+    "name": "Sweet Yogurt",
+    "caption": "With strawberries",
+    "price": "$ 5.00",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/hamburger-small-menu-new"
+  },
+  {
+    "name": "Peanut Toast",
+    "caption": "With butter",
+    "price": "$ 9.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/hamburger-small-menu-new"
+  },
+  {
+    "name": "French Toast",
+    "caption": "With butter and jam",
+    "price": "$ 9.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/big-mac-menu-new"
+  },
+  {
+    "name": "Banana Bread",
+    "caption": "With blueberries",
+    "price": "$ 5.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/triple-cheeseburger-menu-new"
+  },
+  {
+    "name": "Classic Waffle",
+    "caption": "With ice cream",
+    "price": "$ 7.50",
+    "img": "https://res.cloudinary.com/tkwy-prod-eu/image/upload/ar_1:1,c_thumb,h_340,w_340/f_auto/q_auto/dpr_1.0/v1671462468/static-takeaway-com/images/restaurants/bg/NQQQ7Q7/products/chicken-mcnuggets-menu-9-pcs-new"
+  }
+]

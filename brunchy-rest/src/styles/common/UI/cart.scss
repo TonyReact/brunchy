@@ -1,0 +1,27 @@
+.cart__box {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+  font-family: 'Poppins-Bold';
+  color: var(--color-lightblack);
+}
+
+.cart__total {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-family: 'Poppins-Bold';
+  color: var(--color-lightblack);
+  border-top: 1px solid rgba(121, 121, 121, 0.4);;
+}
+
+.cart-item__price, .cart-total__price{
+  span{
+    color: var(--color-darkorange);
+    font-size: 15px;
+  }
+}

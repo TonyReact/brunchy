@@ -1,0 +1,65 @@
+@include md {
+  .home{
+    width: 92%;
+  }
+  .modal-content{
+    top: 60%;
+  }
+
+}
+
+@include sm {
+  .header{
+    gap: 180px;
+    .header-nav{
+      padding-top: 23px;
+    }
+  }
+  .modal-message{
+    width: 480px;
+  }
+  .modal-content{
+    top: 60%;
+  }
+}
+
+@include mobile {
+  .header{
+    gap: 4px;
+    .header-nav{
+      justify-content: center;
+    }
+  }
+  .modal-message{
+    width: 378px;
+  }
+  .main{
+    overflow-y: hidden;
+  }
+  .footer-container{
+    width: 330px;
+    margin-bottom: 10px;
+  }
+  .modal-content{
+    width: 353px;
+    top: 55%;
+  }
+}
+
+@include xs {
+  .header{
+    gap: 1px;
+    width: 96%;
+    justify-content: center;
+  }
+  .modal-message{
+    width: 362px;
+  }
+  .modal-content{
+    width: 330px;
+    top: 52%;
+  }
+  .home-caption{
+    width: 365px;
+  }
+}

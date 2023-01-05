@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  width: 85%;
+  height: auto;
+  justify-content: space-between;
+  margin: 0 auto;
+  align-items: center;
+  box-sizing: content-box;
+  padding-top: 35px;
+}
+
+.header-nav {
+  display: flex;
+  width: 341px;
+  height: 55px;
+  align-items: center;
+  gap: 22px;
+  flex-wrap: wrap;
+  span{
+    font-family: 'Poppins-SemiBold';
+    font-size: 14px;
+    color: var(--color-gray);
+  }
+}
+
+.header__logo {
+  span{
+    font-family: 'Poppins-Bold';
+    font-size: 36px;
+    color: var(--color-lightblack);
+  }
+}

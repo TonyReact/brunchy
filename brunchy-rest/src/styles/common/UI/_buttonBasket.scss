@@ -1,0 +1,43 @@
+.btn-basket {
+  background-color: #F9F6F6;
+  img{
+    width: 30px;
+    height: 30px;
+  }
+}
+
+.modal, .overlay {
+  width: 100vw;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+  background-color: var(--color-darkwhite);
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+}
+
+.overlay {
+  opacity: 0.8;
+}
+
+.modal-content {
+  position: relative;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: var(--color-lightgray);
+  padding: 14px 28px;
+  max-width: 480px;
+  min-height: 370px;
+  border-radius: 15px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+}
