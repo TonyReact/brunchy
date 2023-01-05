@@ -14,11 +14,11 @@ npm install
 
 npm test
 
-### To install Swiper:
+### Install Swiper:
 
 npm install swiper
 
-### To install SaSS:
+### Install SaSS:
 
 npm install -g sass
 
