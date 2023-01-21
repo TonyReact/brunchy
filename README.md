@@ -39,5 +39,5 @@ The original plan was to split the page elements into components and put everyth
 This file contains both buttons and a basket, pop-up elements.
 I coped with the main task - the code works. However, it is worth working more carefully on planning and code cleanliness.
 
-To stylize the project, I used the Swiper slider and Sass and SCSS and Surge to create a json database.
+For styling the project, I used the Swiper slider and Sass and SCSS and Surge to create a json database.
 I think it makes more sense to use slider elements from the library than to write the code manually. Customizing a library item takes much less time and effort.
