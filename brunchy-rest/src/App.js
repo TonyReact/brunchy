@@ -8,7 +8,7 @@ import Header from "./components/Header";
 import ClimbingBoxLoader from 'react-spinners/ClimbingBoxLoader'
 
 const App = () => {
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     setLoading(true);
